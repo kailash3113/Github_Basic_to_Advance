@@ -16,6 +16,3 @@ print("Hi this is sk")
 
 print("Hi this is sk1")
 
-print("Hi this is sundar")
-
-print("Hi this is kailash switch")
