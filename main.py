@@ -9,10 +9,3 @@ print("Hi this is kailash")
 print("Hi this is kailash S")
 
 print("Hi this is kailash Sunda")
-
-print("Hi this is sundar")
-
-print("Hi this is sk")
-
-print("Hi this is sk1")
-
