@@ -1,6 +1,6 @@
 print("Hi this is kailash switchh")
 
-print("Hi this is sunda")
+print("Hi this is sun")
 
 print("Hi this is kailash Sundar")
 
